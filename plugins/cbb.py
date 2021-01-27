@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Movies Group😘", url="https://t.me/@Explore_Moviez"
+                        "Movies Group😘", url="https://t.me/Explore_Moviez"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Movies Group😘", url="https://t.me/@Explore_Moviez"
+                        "Movies Group😘", url="https://t.me/Explore_Moviez"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Movies Group😘", url="https://t.me/@Explore_Moviez"
+                        "Movies Group😘", url="https://t.me/Explore_Moviez"
                     )
                 ],
             ]
